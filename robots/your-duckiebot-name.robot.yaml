@@ -1,0 +1,7 @@
+owner: Id of owner
+username: username on the machine
+hostname: hostname (duckiebot's name)
+description: generic description
+log:
+    date: comment
+    date: comment
