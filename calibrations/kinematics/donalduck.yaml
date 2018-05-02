@@ -1,7 +1,7 @@
-calibration_time: 2018-05-02-17-23-35
-gain: 0.565900206765
-trim: 0.160064349775
-baseline: -46.2848190302
+calibration_time: 2018-05-02-18-11-55
+gain: 0.576181085654
+trim: 0.227803461729
+baseline: -79.205679376
 radius: 0.0318
 k: 27.0
 limit: 1.0
